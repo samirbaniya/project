@@ -93,6 +93,8 @@
                                     <p class="item-price">Rs.<?php echo $pro_price; ?></p>
                                     <p class="item-desc"><?php echo $pro_description; ?></p>
                                     <a href="<?php echo APP_URL; ?>order.php?id=<?php echo $pro_id; ?>" class="btn btn-primary">Order Now</a>
+                                    <a href="<?php echo APP_URL; ?>add-to-cart.php?id=<?php echo $pro_id; ?>" class="btn btn-primary">Add to cart Now</a>
+
                                 </div>
                             </div>
                             <?php

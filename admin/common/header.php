@@ -17,7 +17,7 @@ include('config/login-check.php');
     <section class="menubar">
         <div class="wrapper">
             <div class="logo">
-                <img src="../images/hamroSekuwaLogo.png" class="img-responsive" alt="logo">
+                <img src="../images/nepalYummies.png" class="img-responsive" alt="logo">
             </div>
             <div class="menu text-center">
                 <ul>

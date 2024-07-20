@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="css/style1.css">
-    <title>Hamro Sekuwa</title>
+    <title>Nepal Yummies</title>
 </head>
 
 <body>
@@ -16,7 +16,7 @@
     <section class="navbar">
         <div class="container">
             <div class="logo">
-                <img src="images/HamroSekuwaLogo1.png" alt="HamroSekuwalogo" class="img-responsive">
+                <img src="images/nepalYummies.png" alt="NepalYummieslogo" class="img-responsive">
             </div>
             <div class="menu text-right">
                 <ul>
@@ -24,6 +24,8 @@
                     <li><a href="Categories.php">Categories</a></li>
                     <li><a href="product.php">Product</a></li>
                      <li><a href="contact.php">Contact</a></li>
+                     <li><a href="manage-cart.php"><img src="cart.png" alt=""></a></li>
+
                     
                 </ul>
             </div>
